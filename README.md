@@ -4,7 +4,7 @@ The main purpose of the staff attendance module is to work with schools, compani
 
 Face detection and recognition are designed for employees. QR code analysis, on the other hand, is designed for people who do not need to have their entries and exits recorded, such as visitors or company managers.
 
-Interfaces
+Interfaces: 
 There are 2 interfaces within the scope of the project and it works similar to the first interface management system. The second interface is the main interface where the person identification and participation control are made.
 
 1. It contains the functions of adding and deleting personnel in the interface. Personnel are added to the database and system by using the employee's photo entry together with the employee's name-surname information obtained through the interface.
